@@ -1,6 +1,6 @@
 <h1>Project Description</h1>
 
-In this project, I used the OpenCV library and Haar Cascade XML files to create a very basic face and eye detection program. This program will give the number of faces and pair of eyes detected along with the image where the faces and eyes are detected.
+In this project, I used the OpenCV library and Haar Cascade XML files to create a very basic face and eye detection program. I created a function where one will provide the image path as the argument. Then, the function will load the image from the given path and then detect the objects (face and eyes) with the help of cascade classifiers. Next, it draws a rectangle on each of those objects. At last, it prints the number of faces and pair of eyes detected and also displays the image.
 
 <br>
 
