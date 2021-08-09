@@ -18,3 +18,7 @@ Haar Cascade classifier is an effective object detection approach whereas Haar C
 
     Haar Cascade XML Files : https://github.com/anaustinbeing/haar-cascade-files
     
+<br>
+
+<h1>Face Detection</h1>
+Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images. 
