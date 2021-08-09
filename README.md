@@ -1,6 +1,6 @@
 <h1>Project Description</h1>
 
-In this project, I used the OpenCV library and Haar Cascade Classifiers to create a very basic face and eye detection program. 
+In this project, I used the OpenCV library and Haar Cascade XML files to create a very basic face and eye detection program. 
 
 <br>
 
@@ -20,7 +20,7 @@ OpenCV is a huge open-source library for Computer Vision, Machine Learning and I
     
 <h1>Haar Cascade Classifier</h1>
 
-Haar Cascade classifier is an effective object detection approach. Haar Cascade is an Object Detection Algorithm used to identify faces in an image or a real time video.
+Haar Cascade classifier is an effective object detection approach whereas Haar Cascade is an Object Detection Algorithm used to identify faces in an image or a real time video.
 
     Haar Cascade XML Files : https://github.com/anaustinbeing/haar-cascade-files
     
