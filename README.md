@@ -4,12 +4,6 @@ In this project, I used the OpenCV library and Haar Cascade XML files to create 
 
 <br>
 
-<h1>Computer Vision</h1>
-
-Computer Vision is a field of Artificial Intelligence that enables computers and systems to derive meaningful information from digital images , videos and other visual inputs.
-
-<br>
-
 <h1>OpenCV</h1>
 
 OpenCV is a huge open-source library for Computer Vision, Machine Learning and Image Processing. By using it, one can process images and videos to identify objects, faces, or even handwriting of a human.
